@@ -4,4 +4,4 @@ to run, simply <br>
 ```$ python3 main.py``` <br>
 ** <strong>AI NOTICE</strong> ** <br>
 as always, read and understand the source code before running it. <br>
-![demo](C:\Users\dylan\Downloads\demo.png)
+![Image](C:\Users\dylan\Downloads\demo.png "demo")
